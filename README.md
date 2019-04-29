@@ -28,6 +28,8 @@ pip install -r requirements.txt
 ```
 
 ## Create corpus from wikipedia articles.
+You can create corpus from wikipedia articles. Currently mkcorpus can get limited number of articles (and Japanease only). If you want to get full articles, download from `https://dumps.wikimedia.org/jawiki/latest/jawiki-latest-pages-articles.xml.bz2`.
+
 Get into `wikipedia` directory.
 ```
 cd wikipedia
