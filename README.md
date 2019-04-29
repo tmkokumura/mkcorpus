@@ -1,4 +1,4 @@
-# Over view
+# Overview
 You can create various corpus using mkcorpus.
 Now mkcorpus support Japanease wikipedia.
 
