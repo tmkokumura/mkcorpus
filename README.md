@@ -11,7 +11,7 @@ Now mkcorpus support Japanease wikipedia.
 ## General
 ### Clone the repository
 ```
-git 
+git clone https://github.com/tmkokumura/mkcorpus.git
 ```
 
 ### Install dependencies
